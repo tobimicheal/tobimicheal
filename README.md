@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi there 👋🏽, 
 
 <!--
 **tobimicheal/tobimicheal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+i'm Tobi 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Tobi. I'm a cyber soc analyst with the civil service and well versed with security tools like Sentinel, Defender, KQL and Python for automation.
+i have certifications in Linux, Azure and AWS cloud technologies.
+
+- 🔭 I’m currently working on my security knowledge by actively building cloud security projects and analyzing websites for vulnerabilities
+- 🌱 I’m currently learning Docker, Kubernetes, AWS. 
+- 💬 Ask me about cyber security 
+- 📫 How to reach me: www.linkedin.com/in/tobi-abioye 
