@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Tobi. I'm a cyber soc analyst with the civil service and well versed with security tools like Sentinel, Defender, KQL and Python for automation.
+My name is Tobi. I'm a security engineer and well versed with security tools like Sentinel, Defender, KQL and Python for automation.
 i have certifications in Linux, Azure and AWS cloud technologies.
 
 - 🔭 I’m currently working on my security knowledge by actively building cloud security projects and analyzing websites for vulnerabilities
