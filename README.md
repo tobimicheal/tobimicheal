@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Tobi. I'm a security engineer and well versed with security tools like Sentinel, Defender, KQL and Python for automation.
 i have certifications in Linux, Azure and AWS cloud technologies.
 
-- 🔭 I’m currently working on my security knowledge by actively building cloud security projects and analyzing websites for vulnerabilities
+- 🔭 I’m currently building cloud security projects and analyzing websites for vulnerabilities
 - 🌱 I’m currently learning Docker, Kubernetes, AWS. 
 - 💬 Ask me about cyber security 
 - 📫 How to reach me: www.linkedin.com/in/tobi-abioye
