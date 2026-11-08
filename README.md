@@ -1,4 +1,4 @@
-# Hi, I’m Tobi 👋🏽
+# Hi, I’m Tobi 
 
 I’m a Security Engineer focused on **cloud security, DevSecOps, and secure AI applications**.
 
