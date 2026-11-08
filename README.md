@@ -44,4 +44,4 @@ Configured Kubernetes RBAC to scope permissions for deploying and managing conta
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/tobi-abioye/) · [My AI security project write-up](https://medium.com/@tobiabioye34/i-built-an-ai-security-assistant-and-a-policy-document-hijacked-its-tool-call-c3ae98a49aef)
+[LinkedIn](https://www.linkedin.com/in/tobi-abi/) · [My AI security project write-up](https://medium.com/@tobiabioye34/i-built-an-ai-security-assistant-and-a-policy-document-hijacked-its-tool-call-c3ae98a49aef)
